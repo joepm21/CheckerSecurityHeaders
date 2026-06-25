@@ -106,13 +106,6 @@ El binario incluye dependencias necesarias para ejecutarse como herramienta port
 chmod +x PVGUARD_SecurityHeaders
 ./PVGUARD_SecurityHeaders --help
 ```
-
-### Usando el script Python, si publicas el código fuente
-
-```bash
-python3 PVGUARD_SecurityHeaders.py --help
-```
-
 Dependencias recomendadas para ejecución desde código fuente:
 
 ```bash
